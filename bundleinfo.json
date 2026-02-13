@@ -1,0 +1,23 @@
+{
+  "materials": {},
+  "prefabs": {
+    "customsaber": "assets/odysseus/prefabs/customsaber.prefab",
+    "intro": "assets/odysseus/prefabs/intro.prefab",
+    "kill": "assets/odysseus/prefabs/kill.prefab",
+    "oldking": "assets/odysseus/prefabs/oldking.prefab",
+    "talk1": "assets/odysseus/prefabs/talk1.prefab",
+    "talk2": "assets/odysseus/prefabs/talk2.prefab",
+    "custom note debris": "assets/vivifytemplate/utilities/prefabs/custom objects/custom note debris.prefab",
+    "custom note dot": "assets/vivifytemplate/utilities/prefabs/custom objects/custom note dot.prefab",
+    "custom note": "assets/vivifytemplate/utilities/prefabs/custom objects/custom note.prefab"
+  },
+  "bundleFiles": [
+    "F:/Games/Beat Saber VR/Beat Saber_Data/CustomWIPLevels/Odysseus/bundleWindows2019.vivify",
+    "F:/Games/Beat Saber VR/Beat Saber_Data/CustomWIPLevels/Odysseus/bundleWindows2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2019": 3100707618,
+    "_windows2021": 1623702651
+  },
+  "isCompressed": true
+}
