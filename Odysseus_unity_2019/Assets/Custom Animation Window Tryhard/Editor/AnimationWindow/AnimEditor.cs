@@ -238,7 +238,6 @@ namespace UnityEditor.Enemeteen {
 				// Calling Waveform before main content in order to draw in bg if needed
 				AudioWaveformOnGUI(contentLayoutRect, audioWaveformRect);
 				// MainContent must be done first since it resizes the Zoomable area.
-				// Does it?? this still seems to function fine
 				MainContentOnGUI(contentLayoutRect);
 				TimeRulerOnGUI(timerulerRect);
 				EventLineOnGUI(eventsRect);
